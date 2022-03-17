@@ -8,6 +8,12 @@ This project uses the Model-View-Controller (MVC) paradigm to create a blog-styl
 
 ## Installation
 Add a .env file to the root of the project
-`DB_NAME='tech_blog_db'
+DB_NAME='tech_blog_db'
 DB_USER='root'
-DB_PW='XXX'`
+DB_PW='XXX'
+
+1. `npm install` 
+2. `mysql -u root -p` , source then use db
+3. `npm run seed`
+4. `npm run start` 
+
