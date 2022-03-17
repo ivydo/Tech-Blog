@@ -8,7 +8,7 @@ This project uses the Model-View-Controller (MVC) paradigm to create a blog-styl
 
 
 ## Screenshot
-![Screenshot](public\Screenshot.png)
+![Screenshot](/public/Screenshot.png)
 
 ## Installation
 Add a .env file to the root of the project
