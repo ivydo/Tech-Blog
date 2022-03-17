@@ -4,7 +4,11 @@
 This project uses the Model-View-Controller (MVC) paradigm to create a blog-style website where developers can create an account, edit their information, make posts, edit posts, and comment on other user's posts.
 
 ## Application Deployment on Heroku
+[Deployed App](https://tech-talk-blog-ivy.herokuapp.com/)
 
+
+## Screenshot
+![Screenshot](public\Screenshot.png)
 
 ## Installation
 Add a .env file to the root of the project
